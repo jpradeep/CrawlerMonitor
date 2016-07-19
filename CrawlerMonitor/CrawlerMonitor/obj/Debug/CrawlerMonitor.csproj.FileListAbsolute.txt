@@ -1,0 +1,13 @@
+E:\CrawlerMonitor\CrawlerMonitor\bin\Debug\CrawlerMonitor.exe
+E:\CrawlerMonitor\CrawlerMonitor\bin\Debug\CrawlerMonitor.pdb
+E:\CrawlerMonitor\CrawlerMonitor\obj\Debug\ResolveAssemblyReference.cache
+E:\CrawlerMonitor\CrawlerMonitor\obj\Debug\CrawlerMonitor.exe
+E:\CrawlerMonitor\CrawlerMonitor\obj\Debug\CrawlerMonitor.pdb
+E:\CrawlerMonitor\CrawlerMonitor\bin\Debug\CrawlerMonitor.exe.config
+E:\CrawlerMonitor\CrawlerMonitor\bin\Debug\log4net.dll
+D:\CrawlerMonitor\CrawlerMonitor\bin\Debug\CrawlerMonitor.exe.config
+D:\CrawlerMonitor\CrawlerMonitor\bin\Debug\CrawlerMonitor.exe
+D:\CrawlerMonitor\CrawlerMonitor\bin\Debug\CrawlerMonitor.pdb
+D:\CrawlerMonitor\CrawlerMonitor\obj\Debug\ResolveAssemblyReference.cache
+D:\CrawlerMonitor\CrawlerMonitor\obj\Debug\CrawlerMonitor.exe
+D:\CrawlerMonitor\CrawlerMonitor\obj\Debug\CrawlerMonitor.pdb

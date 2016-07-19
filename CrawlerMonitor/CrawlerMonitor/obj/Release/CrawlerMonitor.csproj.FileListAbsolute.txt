@@ -1,0 +1,12 @@
+E:\CrawlerMonitor\CrawlerMonitor\bin\Release\CrawlerMonitor.exe.config
+E:\CrawlerMonitor\CrawlerMonitor\bin\Release\CrawlerMonitor.exe
+E:\CrawlerMonitor\CrawlerMonitor\bin\Release\CrawlerMonitor.pdb
+E:\CrawlerMonitor\CrawlerMonitor\obj\Release\ResolveAssemblyReference.cache
+E:\CrawlerMonitor\CrawlerMonitor\obj\Release\CrawlerMonitor.exe
+E:\CrawlerMonitor\CrawlerMonitor\obj\Release\CrawlerMonitor.pdb
+D:\CrawlerMonitor\CrawlerMonitor\bin\Release\CrawlerMonitor.exe.config
+D:\CrawlerMonitor\CrawlerMonitor\obj\Release\CrawlerMonitor.exe
+D:\CrawlerMonitor\CrawlerMonitor\obj\Release\CrawlerMonitor.pdb
+D:\CrawlerMonitor\CrawlerMonitor\bin\Release\CrawlerMonitor.exe
+D:\CrawlerMonitor\CrawlerMonitor\bin\Release\CrawlerMonitor.pdb
+D:\CrawlerMonitor\CrawlerMonitor\obj\Release\ResolveAssemblyReference.cache
